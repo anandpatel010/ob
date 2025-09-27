@@ -28,7 +28,6 @@ This script connects to Binance's public WebSocket API (`@depth@100ms`) to strea
 
 1. Clone or download this repository:
    ```bash
-   git clone [https://github.com/your-repo/binance-orderbook-tape.git
-](https://github.com/anandpatel010/ob.git)]()
+   git clone (https://github.com/anandpatel010/ob.git)
 
 <img width="1047" height="166" alt="image" src="https://github.com/user-attachments/assets/6c499542-55e8-4090-90ff-87600e7ed69a" />
