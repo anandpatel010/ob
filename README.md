@@ -1,6 +1,6 @@
 # Binance Spot Order Book Tape
 
-A lightweight Python CLI tool to monitor real-time order book depth (best bid and ask) for Binance spot USDT pairs, inspired by [Aggr](https://github.com/Tucsky/aggr). Displays total volume at the current best prices with colored bars, updating every ~100ms for a clean, flicker-free experience.
+A lightweight Python CLI tool to monitor real-time order book depth (best bid and ask) for Binance spot USDT pairs. Displays total volume at the current best prices with colored bars, updating every ~100ms for a clean, flicker-free experience.
 
 ## Overview
 
